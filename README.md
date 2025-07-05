@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Tadiparti</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeyatadiparti&theme=algolia" alt="karthikeyatadiparti" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://karthikeyatadiparti.vercel.app/](https://karthikeyatadiparti.vercel.app/)
 
