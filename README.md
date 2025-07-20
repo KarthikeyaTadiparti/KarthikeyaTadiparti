@@ -2,9 +2,18 @@
 A Full-stack web developer proficient in the MERN stack, crafting real-world applications with secure authentication, role-based access, AI-powered features, and responsive UI/UX design.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeya10)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeyatadiparti@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white)](https://karthikeyatadiparti.vercel.app/)
+<p>
+  <a href="https://linkedin.com/in/karthikeya10">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kartikeyatadiparti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://karthikeyatadiparti.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
+
 
 
 
@@ -43,8 +52,12 @@ A Full-stack web developer proficient in the MERN stack, crafting real-world app
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</p>
+
 
 ---
 
