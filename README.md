@@ -2,15 +2,15 @@
 A Full-stack web developer proficient in the MERN stack, crafting real-world applications with secure authentication, role-based access, AI-powered features, and responsive UI/UX design.
 
 ## 🌐 Socials:
-<p>
-  <a href="https://linkedin.com/in/karthikeya10">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<p align="center" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/karthikeya10" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kartikeyatadiparti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:kartikeyatadiparti@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://karthikeyatadiparti.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white" />
+  <a href="https://karthikeyatadiparti.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -51,12 +51,13 @@ A Full-stack web developer proficient in the MERN stack, crafting real-world app
 
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+</div>
+
 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KarthikeyaTadiparti&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=KarthikeyaTadiparti&label=Profile%20views&color=0e75b6&style=flat)
