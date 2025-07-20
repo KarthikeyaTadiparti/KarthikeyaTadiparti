@@ -2,7 +2,7 @@
 A Full-stack web developer proficient in the MERN stack, crafting real-world applications with secure authentication, role-based access, AI-powered features, and responsive UI/UX design.
 
 ## 🌐 Socials:
-<p align="center" style="display: flex; gap: 10px;">
+<p style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/karthikeya10" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
