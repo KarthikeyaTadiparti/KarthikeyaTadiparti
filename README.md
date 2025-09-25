@@ -9,7 +9,7 @@ A Full-stack web developer proficient in the MERN stack, crafting real-world app
   <a href="mailto:kartikeyatadiparti@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://karthikeyatadiparti.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://karthikeyatadiparti.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
 </p>
