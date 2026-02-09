@@ -49,15 +49,6 @@ A Full-stack web developer proficient in the MERN stack, crafting real-world app
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaTadiparti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</div>
-
-
-
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=KarthikeyaTadiparti&label=Profile%20views&color=0e75b6&style=flat)
